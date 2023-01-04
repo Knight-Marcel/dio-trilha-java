@@ -24,7 +24,7 @@ public class Operadores {
         int a , b ;
         a= 6;
         b=3;
-        String resultado = a==b ? "verdadeiro" : "falso";
+        String resultado = a==b ? "verdadeiro" : "falso"; //?: "operador ternario pode ser utilizado para outros tipos de dados além de string"
         /*
         if(a==b)
             resultado  = "verdadeiro";
