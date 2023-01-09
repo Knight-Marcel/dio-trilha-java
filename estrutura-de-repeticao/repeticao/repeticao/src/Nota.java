@@ -19,11 +19,6 @@ public class Nota {
                 nota = scan.nextInt();
                 
             }
-
-
-        
-
-
     }
 
 }
