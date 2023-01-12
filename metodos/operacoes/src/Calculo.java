@@ -38,12 +38,5 @@ public static void Total (double valor, int parcela){
         double resultid = (valor * getTaxa()) + valor;
         System.out.println("O valor do emprestimo acima de 5 parcelas é: "+resultid);
     }
-    
-    
-
-
 }
-
-
-
 }
