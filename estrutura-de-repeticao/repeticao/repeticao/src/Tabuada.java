@@ -11,7 +11,7 @@ public class Tabuada {
     
         if(tabuada >0 && tabuada <=10){
             System.out.println("A tabuada de "+tabuada);
-        for(i = 1 ; i<=10 ;i++){
+            for(i = 1 ; i<=10 ;i++){
             resultado= tabuada * i;
 
             System.out.println(tabuada+" X "+i+" = "+resultado);
